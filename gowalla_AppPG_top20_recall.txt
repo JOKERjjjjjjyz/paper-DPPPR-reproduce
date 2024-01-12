@@ -1,0 +1,164 @@
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.3999999999999999 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.19999999999999996 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+topk20 ver:  recall: (0.2, 0.05, 0.016000000000000004, 0.07721668828275381)
+alpha=0.3999999999999999 :
+topk20 ver:  recall: (0.2, 0.05, 0.016000000000000004, 0.16958010263680806)
+alpha=0.19999999999999996 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.6 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.3999999999999999 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+alpha=0.19999999999999996 :
+topk20 ver:  recall: (0.0, 0.0, 0.0, 0.0)
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+This is gowalla_AppPG_top20_recall:
+alpha=0.8 :
+topk20 ver:  recall: 0.000589747437623528 pre:0.00022439547190032772 F:5.000011140590823e-05 ndcg:0.0004319139137155967
+alpha=0.6 :
+topk20 ver:  recall: 0.000589747437623528 pre:0.00022439547190032772 F:5.000011140590823e-05 ndcg:0.0004319139137155967
+alpha=0.3999999999999999 :
+topk20 ver:  recall: 0.000589747437623528 pre:0.00022439547190032772 F:5.000011140590823e-05 ndcg:0.0004319139137155967
+alpha=0.19999999999999996 :
+topk20 ver:  recall: 0.0 pre:0.0 F:0.0 ndcg:0.0
+This is gowalla_AppPG_top20_recall:
+alpha=0.2 :
+topk20 ver:  recall: 0.18058827131688895 pre:0.05429030745527613 F:0.023379905971235702 ndcg:0.09486588259497275
+alpha=0.4 :
+topk20 ver:  recall: 0.18550937521623773 pre:0.05613738361576883 F:0.024316043051906044 ndcg:0.09759696975775828
+alpha=0.6000000000000001 :
+topk20 ver:  recall: 0.18615775768422968 pre:0.056413691472959444 F:0.024462788806013342 ndcg:0.09783536289467913
+alpha=0.8 :
+topk20 ver:  recall: 0.0005346471048803835 pre:0.00019090361042266692 F:4.513478984568993e-05 ndcg:0.0003124740583038335

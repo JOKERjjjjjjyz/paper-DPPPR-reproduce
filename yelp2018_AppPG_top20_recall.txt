@@ -1,0 +1,33 @@
+This is yelp2018_AppPG_top20_recall:
+alpha=0.8 :
+This is yelp2018_AppPG_top20_recall:
+alpha=0.2 :
+This is yelp2018_AppPG_top20_recall:
+alpha=0.2 :
+This is yelp2018_AppPG_top20_recall:
+alpha=0.2 :
+This is yelp2018_AppPG_top20_recall:
+alpha=0.2 :
+This is yelp2018_AppPG_top20_recall:
+alpha=0.2 :
+This is yelp2018_AppPG_top20_recall:
+alpha=0.2 :
+This is yelp2018_AppPG_top20_recall:
+alpha=0.2 :
+This is yelp2018_AppPG_top20_recall:
+alpha=0.2 :
+This is yelp2018_AppPG_top20_recall:
+alpha=0.2 :
+This is yelp2018_AppPG_top20_recall:
+alpha=0.2 :
+This is yelp2018_AppPG_top20_recall:
+alpha=0.2 :
+This is yelp2018_AppPG_top20_recall:
+alpha=0.2 :
+top20 ver:  recall: 0.05230432511826506 pre:0.02354900846279976 F:0.006282333373743108 ndcg:0.036428910866212624
+alpha=0.4 :
+top20 ver:  recall: 0.055859017660826016 pre:0.0251373626373601 F:0.006780837853952007 ndcg:0.038646436821833295
+alpha=0.6000000000000001 :
+top20 ver:  recall: 0.056456903958676134 pre:0.025377352532522345 F:0.006858483762672016 ndcg:0.0390533591828398
+alpha=0.8 :
+top20 ver:  recall: 0.0005410079293785243 pre:0.0002763041556145002 F:4.59552353856452e-05 ndcg:0.00042723940430174263

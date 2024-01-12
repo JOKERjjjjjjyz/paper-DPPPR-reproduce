@@ -1,0 +1,51 @@
+This is ml-1m_AppPG_top20_recall:
+alpha=0.2 :
+This is ml-1m_AppPG_top20_recall:
+alpha=0.2 :
+top20 ver:  recall: 4.798925040790863e-06 pre:1.6556291390728477e-05 F:7.441029838529653e-06 ndcg:2.0856552184086468e-05
+alpha=0.4 :
+top20 ver:  recall: 4.798925040790863e-06 pre:1.6556291390728477e-05 F:7.441029838529653e-06 ndcg:1.6007173060669898e-05
+alpha=0.6000000000000001 :
+top20 ver:  recall: 4.798925040790863e-06 pre:1.6556291390728477e-05 F:7.441029838529653e-06 ndcg:1.6147285325591174e-05
+alpha=0.8 :
+top20 ver:  recall: 0.0 pre:0.0 F:0.0 ndcg:0.0
+This is ml-1m_AppPG_top20_recall:
+alpha=0.2 :
+top20 ver:  recall: 0.0 pre:0.0 F:0.0 ndcg:0.0
+alpha=0.4 :
+top20 ver:  recall: 0.0 pre:0.0 F:0.0 ndcg:0.0
+alpha=0.6000000000000001 :
+top20 ver:  recall: 0.0 pre:0.0 F:0.0 ndcg:0.0
+alpha=0.8 :
+top20 ver:  recall: 0.0 pre:0.0 F:0.0 ndcg:0.0
+This is ml-1m_AppPG_top20_recall:
+alpha=0.2 :
+top20 ver:  recall: 0.0 pre:0.0 F:0.0 ndcg:0.0
+alpha=0.4 :
+top20 ver:  recall: 0.0 pre:0.0 F:0.0 ndcg:0.0
+alpha=0.6000000000000001 :
+top20 ver:  recall: 0.0 pre:0.0 F:0.0 ndcg:0.0
+alpha=0.8 :
+top20 ver:  recall: 0.0 pre:0.0 F:0.0 ndcg:0.0
+This is ml-1m_AppPG_top20_recall:
+alpha=0.2 :
+top20 ver:  recall: 4.798925040790863e-06 pre:1.6556291390728477e-05 F:7.441029838529653e-06 ndcg:2.0856552184086468e-05
+alpha=0.4 :
+top20 ver:  recall: 4.798925040790863e-06 pre:1.6556291390728477e-05 F:7.441029838529653e-06 ndcg:1.6007173060669898e-05
+alpha=0.6000000000000001 :
+top20 ver:  recall: 4.798925040790863e-06 pre:1.6556291390728477e-05 F:7.441029838529653e-06 ndcg:1.6147285325591174e-05
+alpha=0.8 :
+top20 ver:  recall: 0.0 pre:0.0 F:0.0 ndcg:0.0
+This is ml-1m_AppPG_top20_recall:
+alpha=0.2 :
+This is ml-1m_AppPG_top20_recall:
+alpha=0.2 :
+This is ml-1m_AppPG_top20_recall:
+alpha=0.2 :
+top20 ver:  recall: 4.798925040790863e-06 pre:1.6556291390728477e-05 F:7.441029838529653e-06 ndcg:2.0856552184086468e-05
+alpha=0.4 :
+top20 ver:  recall: 4.798925040790863e-06 pre:1.6556291390728477e-05 F:7.441029838529653e-06 ndcg:1.6007173060669898e-05
+alpha=0.6000000000000001 :
+top20 ver:  recall: 4.798925040790863e-06 pre:1.6556291390728477e-05 F:7.441029838529653e-06 ndcg:1.6147285325591174e-05
+alpha=0.8 :
+top20 ver:  recall: 0.0 pre:0.0 F:0.0 ndcg:0.0
